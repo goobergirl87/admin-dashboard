@@ -129,14 +129,6 @@ li {
 	margin-top: 20px;
 }
 
-.list-icon {
-	padding-bottom: 7px;
-}
-
-.list-item {
-	padding-bottom: 10px;
-}
-
 .list-bottom {
 	grid-column: 2;
 	grid-row: 3;
@@ -153,6 +145,14 @@ li {
 	grid-column: 1;
 	grid-row: 3;
 	margin-top: 20px;
+}
+
+.list-top-icons >li, .list-bottom-icons>li {
+	padding-bottom: 7px;
+}
+
+.list-top >li, .list-bottom >li {
+	padding-bottom: 10px;
 }
 
 input {
