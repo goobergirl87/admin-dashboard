@@ -98,7 +98,18 @@ h2 {
 
 h3 {
 	font-family: Raleway, sansserif;
+    font-size: 16px;
+}
+
+h4 {
+	font-family: Raleway, sansserif;
     font-size: 14px;
+}
+
+p {
+	font-family: Raleway, sansserif;
+    font-size: 12px;
+	line-height: 1rem;
 }
 
 ul {
